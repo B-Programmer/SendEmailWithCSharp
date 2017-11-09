@@ -1,0 +1,7 @@
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\bin\Debug\SendEmailWithCSharp.exe
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\bin\Debug\SendEmailWithCSharp.pdb
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\obj\x86\Debug\SendEmailWithCSharp.Form1.resources
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\obj\x86\Debug\SendEmailWithCSharp.Properties.Resources.resources
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\obj\x86\Debug\SendEmailWithCSharp.csproj.GenerateResource.Cache
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\obj\x86\Debug\SendEmailWithCSharp.exe
+C:\B Programmer\C#\SendEmailWithCSharp\SendEmailWithCSharp\obj\x86\Debug\SendEmailWithCSharp.pdb
